@@ -35,6 +35,12 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-plugin-plausible",
+      options: {
+        domain: "inboxze.ro",
+      },
+    },
+    {
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId: "UA-23035506-17",
