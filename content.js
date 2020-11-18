@@ -72,6 +72,23 @@ export const content = [
     source_url: "https://www.gmass.co/gmailgenius/how-i-email-pat-walls/",
   },
   {
+    id: "0db5tzie",
+    tag: "app",
+    author: {
+      name: "Mailbrew",
+      avatar: "twitter/mailbrew",
+      bio: "Automated digests on things you love.",
+    },
+    body:
+      "Personalized email digest from your favorite sources. Like RSS but better, with support for YouTube, Hacker News, Twitter, and more.",
+    preview_image: "https://superlinear-assets.s3.us-east-1.amazonaws.com/inboxzero/mailbrew.png",
+    offer: {
+      title: "40% OFF for 3 Months",
+      subtitle: "Click here to claim the discount",
+      url: "https://mailbrew.com/?coupon=K9h1JrBP",
+    },
+  },
+  {
     id: "j3ir7629",
     tag: "opinion",
     author: {
@@ -188,23 +205,6 @@ export const content = [
       "_If the entire email fits in the subject, put it in the subject._\n\nIf you think that's rude, it's not.\n\nIf you insist that it's rude, put 'Thanks!' in the body.\n\nIf the email fits in the subject, it takes a click out of processing it, and raises the probability of a reply.",
     source: "http://matt.might.net/articles/how-to-email/",
     label: "How to send and reply to email",
-  },
-  {
-    id: "0db5tzie",
-    tag: "app",
-    author: {
-      name: "Mailbrew",
-      avatar: "twitter/mailbrew",
-      bio: "Automated digests on things you love.",
-    },
-    body:
-      "You don't need many different newsletters to stay in touch with the topics and people you care about.\n\nCreate your own email digest, from your favorite sources.",
-    preview_image: "https://superlinear-assets.s3.us-east-1.amazonaws.com/inboxzero/mailbrew.png",
-    offer: {
-      title: "40% OFF for 3 Months",
-      subtitle: "Click here to claim the discount",
-      url: "https://mailbrew.com/?coupon=K9h1JrBP",
-    },
   },
   {
     id: "589etf84",
