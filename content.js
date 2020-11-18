@@ -456,7 +456,7 @@ export const content = [
       bio: "Unsubscribe from unwanted emails.",
     },
     body: "See all of your subscription emails in one place and unsubscribe from them with a single click.",
-    preview_image: "https://leavemealone.app/static/9a9f4acb40bfe247f8135347b4e9a574/f23df/mail-list-illustation.png",
+    preview_image: "https://cdn-b.leavemealone.app/assets/mail-list-desktop.png",
     offer: {
       title: "10% OFF",
       subtitle: `Use "INBOX_ZERO" at checkout`,
@@ -615,7 +615,8 @@ export const content = [
       avatar: "twitter/funcovh",
       bio: "Superpowers for your email",
     },
-    body: "Func.ovh is an e-mail based ecosystem allowing you to use features like reminders, journal and other, purely from the level of your e-mail client.\n\nNo additional software\nNo additional accounts\nNo additional fees!\n\nThe concept is really simple, just sent an e-mail to {action}@{service}.func.ovh and watch the magic happen 🙂\n\nFor more information visit - https://www.func.ovh/\n\nLet's grow the E-mail Func together 🙂",
+    body:
+      "Func.ovh is an e-mail based ecosystem allowing you to use features like reminders, journal and other, purely from the level of your e-mail client.\n\nNo additional software\nNo additional accounts\nNo additional fees!\n\nThe concept is really simple, just sent an e-mail to {action}@{service}.func.ovh and watch the magic happen 🙂\n\nFor more information visit - https://www.func.ovh/\n\nLet's grow the E-mail Func together 🙂",
     offer: {
       title: "Free in 2020",
       subtitle: "Click here to use",
